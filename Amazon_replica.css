@@ -1,0 +1,133 @@
+#hdr {
+    margin-bottom: 6%; 
+    margin-top: 2%; 
+}
+
+
+body {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+    
+
+}
+
+form {
+    border: 3px solid #f1f1f1;
+    width: 350px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    
+}
+
+h2 {
+    margin-top: -4%;
+    margin-bottom: 2%;
+}
+
+label {
+    font-size: x-small;
+    /* font-weight: 500; */
+    
+}
+
+.lpsw {
+    margin-right: 140px;
+    margin-left: 30px;
+    font-size: x-small;
+}
+
+#fpl {
+    text-align: right;
+    font-size: small;
+    text-decoration: none;
+}
+
+input[type=email],
+input[type=password] {
+    width: 100%;
+    padding: px 20px;
+    margin: 8px 0;
+    border: 1.5px solid #090808b1;
+    box-sizing: border-box;
+    height: 25px;
+    font-size: x-small;
+}
+
+input[type=email] {
+    margin-bottom: 20px;
+}
+
+#button1 {
+    background-color: #a96f12;
+    padding: 10px 1px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 2px;
+    width: 100%;
+    font-size: x-small;
+}
+
+li {
+    font-size: small;
+}
+#button2 {
+    background-color: #969d9b;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: 1px;
+    border-radius: 2px;
+    width: 24%;
+    font-size: x-small;
+    
+}
+
+#n2a {
+    font-size: small;
+}
+
+
+.container {
+    padding: 15px;
+}
+
+hr {
+    border: 2;
+    clear: both;
+    display: block;
+    width: 100%;
+    background-color: #8f8f8ba7;
+    height: 1px;
+    margin-top: 2%;
+}
+
+#bot3 {
+    /* display: flex; */
+    margin-top: 1%;
+    font-size: xx-small;
+    word-spacing: 25%;
+    /* justify-content: space-between; */
+    margin-left: 20px;
+    
+}
+
+#bot3 >span + span{
+    margin-inline: 15px;
+}
+
+.bot3 {
+    text-decoration: none;
+}
+
+.cpyrght {
+    margin-top: 15px;
+    font-size: xx-small;
+}
+  h4 {
+      display: flex;
+      flex-direction: row;
+  }
+
+ 
