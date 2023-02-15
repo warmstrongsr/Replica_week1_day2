@@ -67,13 +67,15 @@ input[type=email] {
 }
 
 #button1 {
-    background-color: #a96f12;
-    padding: 10px 1px;
+    background-color: #c7851a;
+    /* padding: 10px 1px; */
     margin: 8px 0;
-    border: none;
+    border: px;
     border-radius: 2px;
     width: 100%;
     font-size: x-small;
+    height: 30px;
+    border-color: #c7851a;
 }
 
 li {
@@ -93,7 +95,7 @@ li {
     border-radius: 2px;
     width: 325px;
     font-size: x-small;
-    border-color: rgba(63, 60, 60, 0.443);
+    border-color: rgba(63, 60, 60, 0.295);
     height: 30px;
 
 }
